@@ -1,5 +1,5 @@
 <h1 align=center>
-<p><img width=100 src="./tools/Babble%20Icon.svg" alt="babble"/></p>
+<p><img width=100 src="./tools/Babble Icon.svg" alt="babble"/></p>
 Babble
 </h1>
 
